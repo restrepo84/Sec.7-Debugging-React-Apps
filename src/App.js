@@ -44,5 +44,5 @@ const App = () => {
     </div>
   );
 };
-
+// Learned how to install the React dev tool in chrome
 export default App;
